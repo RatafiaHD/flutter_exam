@@ -17,7 +17,7 @@ class GreenTrackAppBar extends StatelessWidget implements PreferredSizeWidget {
           Expanded(
             child: Text(
               AppLocalizations.of(context)!.app_name,
-              style: TextStyle(fontSize: 18.0, fontWeight: FontWeight.w900),
+              style: TextStyle(fontSize: 18.0, fontWeight: FontWeight.w800),
             ),
           ),
         ],
