@@ -1,0 +1,1 @@
+ /Users/louismouchon/development/projetflutter/flutter_exam/lib/l10n/app_localizations_fr.dart /Users/louismouchon/development/projetflutter/flutter_exam/lib/l10n/app_localizations.dart:  /Users/louismouchon/development/projetflutter/flutter_exam/l10n.yaml /Users/louismouchon/development/projetflutter/flutter_exam/lib/l10n/app_fr.arb
